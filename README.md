@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jorge Luis Luna
 #### Computer Science and Engineering Student
-![Computer Science and Engineering Student]([https://github.com/Luis4680/JorgeLuna/blob/main/Jorge%20Luna.mp4](https://github.com/Luis4680/JorgeLuna/blob/main/Jorge%20Luna.png))
+![Computer Science and Engineering Student](https://github.com/Luis4680/JorgeLuna/blob/main/Jorge%20Luna.png)
 
 I'm from Puerto Rico, and currently studying Computer Science and Engineering at University of Puerto rico at Mayagüez. I been coding since the pandemic and have a huge passion for programming and its logic, and really love to learn new things. I am searching for instership or COOP opportunity.
 
